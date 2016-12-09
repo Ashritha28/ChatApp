@@ -1,2 +1,2 @@
-# Real-time-Chat-App
+# ChatApp
 
